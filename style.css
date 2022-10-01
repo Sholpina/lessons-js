@@ -1,0 +1,24 @@
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+#btn, #big, #small {
+  background: rgb(19, 137, 98);
+  padding: 20px;
+  width: 420px;
+  color: white;
+  text-align: center;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.center {text-align: center;}
+.h2 {font-size: 40px; margin: 20px 5px; padding: 5px;} .h1 {font-size: 40px;}
+.hide {display: none;}
+
+body {
+    background-image: url('images/imgn3.jpeg');
+  }
