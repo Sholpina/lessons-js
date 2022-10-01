@@ -1,5 +1,5 @@
 
-/*DZ 20220929 Js*/
+/*Tasks Homework JavaScript 20220929 Js*/
 
 // 1 Дается предложение в котором нужно капитализировать первые буквы всех слов
 // const mySentence = "javascript and python is cool";
@@ -16,8 +16,7 @@ alert(myNewStr(mySentence))
 
 
 // 2 Создавть функцию которая меняет регистр
-// К примеру из строки:
-// SoMe SeNtEnCe WiTh CaMeL CaSe
+// К примеру из строки:  SoMe SeNtEnCe WiTh CaMeL CaSe
 
 // сделать:
 // sOmE sEnTeNcE wItH cAmEl cAsE
