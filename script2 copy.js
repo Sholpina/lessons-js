@@ -17,7 +17,6 @@ alert(myNewStr(mySentence))
 
 // 2 Создавть функцию которая меняет регистр
 // К примеру из строки:  SoMe SeNtEnCe WiTh CaMeL CaSe
-
 // сделать:
 // sOmE sEnTeNcE wItH cAmEl cAsE
 
@@ -59,6 +58,6 @@ function reverseString(str) {
     return newString; 
 }
  
-alert(reverseString('sholpan'));
+console.log(reverseString('sholpan'));
 
 
